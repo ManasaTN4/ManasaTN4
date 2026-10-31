@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Manasa! 👋
 
-<!--
-**ManasaTN4/ManasaTN4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
+🤖 Artificial Intelligence & Machine Learning
+📍 Bengaluru, India
 
-Here are some ideas to get you started:
+## About Me
+- Interested in Artificial Intelligence and Machine Learning.
+- Learning Python, Data Science and Deep Learning.
+- Building practical AI-based projects.
+- Exploring software development and data analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Languages: Python, SQL
+- AI/ML: Machine Learning, Deep Learning
+- Tools: Git, GitHub, VS Code
+- Web: HTML, CSS, Flask
+
+## Featured Projects
+- DermaScan AI – AI-Based Skin Cancer Detection
+- SysGuard – System Anomaly Detection
+- EdgeSmart Surveillance Live – Intelligent Surveillance
+- Grocery Pre-booking Application
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/manasa-tn-425b75371
+- GitHub: https://github.com/ManasaTN4
